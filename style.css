@@ -357,7 +357,8 @@ body {
 		bottom: 70px;
 }
 .rr {
-		    display: grid;
+			left: -100px;
+		    	display: grid;
 			justify-content: space-around;
 			display: flex;
 }
