@@ -196,6 +196,9 @@ footer {
 		margin: 0px;
 }
 .i {
+		display: grid;
+		justify-content: space-around;
+		display: flex;
 		margin-left: 350px;
 		margin-top: 150px;
 		display: flex;
@@ -264,6 +267,9 @@ body {
 		margin-left: 12px;
 }
 .c2 {
+		display: grid;
+		justify-content: space-around;
+		display: flex;
 		border: 3px solid black;
 		margin-left: 620px;
 		width: 650px;
@@ -349,4 +355,9 @@ body {
 		position: fixed;
 		left: 1700px;
 		bottom: 70px;
+}
+.rr {
+		    display: grid;
+			justify-content: space-around;
+			display: flex;
 }
